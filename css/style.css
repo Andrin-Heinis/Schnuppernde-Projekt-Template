@@ -1,6 +1,144 @@
+html,
 body {
-  font-family: Arial, sans-serif;
+  height: 100%;
   margin: 0;
   padding: 0;
-  line-height: 1.6;
+  background: #f6f8fb;
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+  color: #222;
+}
+
+body {
+  background: #f0f4fa;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 500px;
+  margin: 40px auto;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+  padding: 32px;
+  text-align: center;
+}
+
+main {
+  max-width: 480px;
+  margin: 60px auto 0 auto;
+  padding: 0 24px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #2456a5;
+  margin-bottom: 18px;
+  letter-spacing: -1px;
+}
+
+.intro {
+  font-size: 1.1rem;
+  margin-bottom: 32px;
+  color: #444;
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 32px;
+  margin-bottom: 10px;
+  color: #2456a5;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 24px 0;
+}
+
+ul li {
+  background: #e3eaf7;
+  margin: 8px 0;
+  padding: 10px 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(42, 93, 159, 0.06);
+  transition: background 0.2s;
+}
+
+button {
+  background: #2a5d9f;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 24px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 16px;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background: #17406b;
+}
+
+#funfact {
+  margin-top: 18px;
+  color: #555;
+  font-style: italic;
+}
+
+.hobby-img {
+  margin-top: 24px;
+  width: 100%;
+  max-width: 320px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(42, 93, 159, 0.1);
+}
+
+.skills {
+  list-style: disc inside;
+  padding: 0;
+  margin: 18px 0 0 0;
+  color: #333;
+  font-size: 1rem;
+  text-align: left;
+  display: inline-block;
+}
+
+.skills li {
+  margin-bottom: 8px;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  padding: 24px 0 16px 0;
+  background: none;
+  color: #888;
+  font-size: 0.98rem;
+  margin-top: 60px;
+}
+
+footer a {
+  color: #2456a5;
+  text-decoration: none;
+  margin: 0 4px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.footer-content a {
+  color: #fff;
+  text-decoration: underline;
+  margin: 0 8px;
+  font-weight: 500;
+}
+
+.footer-content a:hover {
+  color: #e3eaf7;
 }

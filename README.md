@@ -1,1 +1,0 @@
-# Schnuppernde-Projekt-Template
