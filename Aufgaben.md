@@ -5,7 +5,7 @@
 ## 🔹 Webseite starten
 **Schritt 1:** Öffne das **index.html** File auf der linken Seite.<br> 
 **Schritt 2:** Klicke unten rechts auf "Go Live".<br>
-**Schritt 3:** Nun sollte ein Chrome Tab aufgegengen sein mit etwas Text, falls ja, dann kannst du den Inhalt löschen und mit den Aufgaben beginnen. (Alles von Zeile 10 bis und mit Zeile 30)
+**Schritt 3:** Nun sollte ein Chrome Tab aufgegengen sein mit etwas Text, falls ja, dann kannst du den Inhalt löschen und mit den Aufgaben beginnen. (Alles von Zeile 10 bis und mit Zeile 37)
 
 
 ## 🔹 Teil 1: HTML Inhalte
